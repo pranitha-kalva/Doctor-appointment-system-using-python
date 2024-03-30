@@ -1,1 +1,2 @@
 # Doctor-appointment-system-using-python
+This project aims in developing a doctor appointment system which allows users to book new appointments and check existing appointments. It provides a convenient way for patients to book and manage their appointments with a doctor. It simplifies the process of appointment scheduling and enhances the overall user experience by providing clear feedback and error handling.
